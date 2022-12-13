@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daniya692
+- 👋 Hi, I’m @Daniya Huzaifa
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Unlearning-Relearning Community
 - 📫 How to reach me huzaifadaniya@gmail.com
